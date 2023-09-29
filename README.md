@@ -1,5 +1,5 @@
 # docker-assignment
-موعد التسليم اليوم
+
 Create a docker image that hosts a static-website using Nginx reverse proxy.
 
 
